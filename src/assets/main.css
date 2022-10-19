@@ -1,1 +1,10 @@
 @import "normalize.css";
+@import "ol/ol.css";
+
+body, html {
+  height: 100%;
+}
+
+#app {
+  height: 100%;
+}
